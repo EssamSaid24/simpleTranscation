@@ -12,8 +12,9 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "CalNumber&Sequence_3",
-        "dtTrascations&Sequence_2",
+        "CalNumber&Sequence_4",
+        "dblTest&Sequence_5",
+        "dtTranscations&Sequence_1",
         "strExcelPath&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
